@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package java_day_22.KeThua;
+
+/**
+ *
+ * @author wwhac
+ */
+
+/*
+public class SortByName implements Comparable<Object>{
+    public int compare(Object a, Object b){
+        return ...;
+    }
+}
+*/
